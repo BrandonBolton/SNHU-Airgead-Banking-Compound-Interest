@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/boltonb/Documents/CLionProjects/AirgeadBankingCompound/CompoundInterest.h
+
+/Users/boltonb/Documents/CLionProjects/AirgeadBankingCompound/main.cpp
+iostream
+-
+iomanip
+-
+CompoundInterest.h
+/Users/boltonb/Documents/CLionProjects/AirgeadBankingCompound/CompoundInterest.h
+
